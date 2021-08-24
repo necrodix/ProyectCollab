@@ -1,0 +1,200 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+.textoSearch {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.agrupar{
+    width: 100%;
+}
+
+.select{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  /*
+
+    Navigate 
+
+  */.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ .izq {
+
+  text-align: right;
+  display: inline-block;
+  width: 20%;
+  }
+
+  .dr {
+    text-align: left;
+    display: inline-block;
+    width: 75%;
+    }
+
+.dropdown {
+  float: right;
+  overflow: hidden;
+  width: 60%;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #04AA6D;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/*
+Imagen
+*/
+
+.thumb {
+	
+	width:600px;
+	
+	margin-left:25%;
+	
+}
+
+
+
+
+
+
+.btnEdt {
+  background-color: blue!important;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+
+}

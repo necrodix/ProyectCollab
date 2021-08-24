@@ -1,0 +1,349 @@
+
+body{
+	background-color:#ffdd90;
+	
+}
+
+.thumb {
+	
+	width:600px;
+	
+	margin-left:25%;
+	
+}
+
+/*pagina index*/
+
+.formulario {
+width: 400px;
+height: 200px;
+background: #aaa;
+margin-right: auto;
+margin-left:auto;
+margin-top: 20px;
+}
+
+
+/*pagina sociedades_consulta*/
+
+.tabla_sociedades_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_sociedades_consulta td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+}
+
+.tabla2_trabajos2_consulta{
+		margin-top:50px;
+		margin-left:400px;
+	}
+
+	
+	
+	/*pagina sociedades_edicion*/
+
+.tabla_sociedades_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_sociedades_editar td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+}
+
+.tabla2_trabajos_editar{
+		margin-top:50px;
+		margin-left:340px;
+	}
+
+	
+	/*pagina usuarios editar*/
+	
+
+.tabla_usuario_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_usuario_editar td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+}
+	
+	/* pagina avaluo editar*/
+	
+	.tabla_avaluo_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+	.tabla_avaluo_editar td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	}
+	
+	/* pagina avaluo consulta*/
+	
+	.tabla_avaluo_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+	.tabla_avaluo_consulta td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	}
+	
+	/*pagina cancelacion validacion y fe de erratas*/
+	
+	
+		
+	.tabla_cancelacion_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+	
+	.tabla_cancelacion_editar td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	}
+	
+	/*pagina cancelacion validacion y fe de erratas */
+	
+	
+		
+	.tabla_cancelacion_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+	
+	.tabla_cancelacion_consulta td{
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	}
+	
+	
+	
+/*pagina carta poder*/
+
+.tabla_carta_poder_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_carta_poder_editar td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+}
+
+/*pagina carta poder*/
+
+.tabla_carta_poder_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_carta_poder_consulta td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+}
+
+
+/*pagina fe de hechos*/
+
+.tabla_fe_de_hechos_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_fe_de_hechos_editar td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+
+/*pagina fe de hechos*/
+
+.tabla_fe_de_hechos_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_fe_de_hechos_consulta td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+
+
+
+	/*pagina clientes*/
+
+.tabla_clientes_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_clientes_editar td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+
+/*pagina clientes*/
+
+.tabla_clientes_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_clientes_consulta td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+	
+	/*pagina ratificacion de firma*/
+
+.tabla_ratificacion_editar {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_ratificacion_editar td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+	
+	
+	/*pagina ratificacion de firma*/
+
+.tabla_ratificacion_consulta {
+	border: blue 2px solid;
+	height: 150px;
+	
+}
+
+.tabla_ratificacion_consulta td {
+	border: red 2px solid;
+	height: 150px;
+	width: 150px;
+	top:2px;
+	
+	
+}
+	
+	
+	/*pagina principal*/
+	
+
+	.pagina_principal{
+		
+		width: 360px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	
+	
+	
+	.tabla_pagina_principal td{
+		
+		height: 150px;
+		width: 200px;
+		
+			
+	}
+	
+	.tabla_pagina_principal b {
+		
+		text-decoration:none;
+				color:red;
+				font-size: 25px;
+	}
+
+	
+	/*pagina administrador*/
+	
+.pagina_administrador {
+		
+		width: 360px;
+		margin-left:auto;
+		margin-right:auto;
+			
+	}
+	
+	
+	
+	.tabla_pagina_administrador td{
+		
+		height: 150px;
+		width: 200px;
+		
+			
+	}
+	
+	.tabla_pagina_administrador b {
+		
+		text-decoration:none;
+				color:red;
+				font-size: 25px;
+	}
+	
+	
